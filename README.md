@@ -1,6 +1,8 @@
 # RxJavaRetrofitDemo
 RxJava And Retrofit Demo!
 
+* 使用技术：
+
 - retrofit2
 
 - butterknife
@@ -17,7 +19,7 @@ RxJava And Retrofit Demo!
 
 - cardview
 
-* 截图：
+* 效果图如下：
 
 ![Alt text](/Screenshot.jpeg)
 
